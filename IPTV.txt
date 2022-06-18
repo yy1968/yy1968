@@ -1,0 +1,14 @@
+iptv.m3u
+https://fastly.jsdelivr.net/gh/Kimentanm/aptv/m3u/iptv.m3u
+FKResPNF
+https://pastebin.com/raw/FKResPNF
+iptv.m3u
+http://t.steveee.xyz/m3u/iptv.m3u
+iptv.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+(备用) https://fastly.jsdelivr.net/gh/Kimentanm/aptv/m3u/iptv.m3u
+
+https://pastebin.com/raw/FKResPNF
+http://t.steveee.xyz/m3u/iptv.m3u
